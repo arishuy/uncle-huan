@@ -173,7 +173,7 @@ export default function Page() {
                 <div className="container mx-auto px-4">
                     <div className="text-center mt-20">
                         <h1 className="text-5xl md:text-6xl font-bold mb-4">
-                            Thực Đơn <span className="text-yellow-300">Cafe Xanh</span>
+                            Thực Đơn <span className="text-yellow-300">Uncle Huan Coffee</span>
                         </h1>
                         <p className="text-xl text-green-100 max-w-2xl mx-auto">
                             Khám phá bộ sưu tập đồ uống và món ăn tuyệt vời được chế biến từ những nguyên liệu tốt nhất
